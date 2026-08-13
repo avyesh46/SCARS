@@ -1,4 +1,4 @@
-# SCARS Jeopardy Plastic Surgery Edition
+# SKN SCARS Jeopardy Plastic Surgery Edition
 
 A Jeopardy game for the SCARS Plastic & Reconstructive Surgery Club at WUM. Classic Jeopardy, 5 pre-loaded teams, image support for visual questions, end-game leaderboard with podium.
 
