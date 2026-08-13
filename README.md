@@ -84,17 +84,6 @@ The game has 4 music tracks wired up:
 
 ---
 
-## Build for production (optional)
-
-If you want a static build to host somewhere:
-```cmd
-npm run build
-npm run preview
-```
-Built files end up in `dist/`.
-
----
-
 ## Troubleshooting
 
 **`npm` not recognized** → Node.js isn't installed or not on PATH. Reinstall and check "Add to PATH" during setup.
